@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**lupilp/lupilp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hola, soy Lourdes! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
+<h3>💻 Full Stack Web Developer y Diseñadora Gráfica 🖌️</h3>
 
-Here are some ideas to get you started:
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 Estoy actualmente en busqueda laboral
+- 💿 Con muchas ganas de seguir aprendiendo y demostrar lo que se!
+- 💡 Tengo conocimiento en JavaScript | TypeScript | React | Vue | Next.js | Redux | HTML | CSS | Sass | Node | Express | SQL |
+
+<hr/>
+
+<h2>📩 Por aqui puedes contactarme</h2>
+- Linkedin: <a href="https://www.linkedin.com/in/lourdeslopezpepa/" >/lourdeslopezpepa</a>
+- Email: <a href="lupilp97@gmail.com" target="_blank">lupilp97@gmail.com</a>
