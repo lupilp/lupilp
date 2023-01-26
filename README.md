@@ -6,7 +6,7 @@
 
 - 🔍 Estoy actualmente en busqueda laboral
 - 💿 Actualmente aprendiendo Angular, y con muchas ganas de aprender más!
-- 💡 Tengo conocimiento en JavaScript | TypeScript | React | Vue | Next.js | Redux | HTML | CSS | Sass | Node | Express | SQL |
+- 💡 Tengo conocimiento en JavaScript | TypeScript | React | Next.js | Redux | HTML | CSS | Sass | Node | Express | PostgreSQL |
 
 <hr/>
 
