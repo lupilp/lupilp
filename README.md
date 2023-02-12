@@ -4,7 +4,7 @@
 
 <hr/>
 
-- 🔍 Estoy actualmente en busqueda laboral
+- 🔍 Estoy en busqueda laboral
 - 💿 Actualmente aprendiendo Angular, y con muchas ganas de aprender más!
 - 💡 Tengo conocimiento en JavaScript | TypeScript | React | Next.js | Redux | HTML | CSS | Sass | Node | Express | PostgreSQL |
 
